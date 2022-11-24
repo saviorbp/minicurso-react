@@ -1,2 +1,2 @@
 # minicurso-react
-minicurso react ministrado pela codi academi
+materiais do curso sobre react ministrado por mim para a codi academi.
